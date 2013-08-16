@@ -1,2 +1,2 @@
-RewriteCond %{HTTP_HOST} ^phptherightway.com
-RewriteRule ^(.*)$ http://www.phptherightway.com/$1 [R=301,L]
+RewriteCond %{HTTP_HOST} ^drupaltherightway.com
+RewriteRule ^(.*)$ http://www.drupaltherightway.com/$1 [R=301,L]
