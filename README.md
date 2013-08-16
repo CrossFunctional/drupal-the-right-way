@@ -1,8 +1,8 @@
-# PHP: The Right Way
+# Drupal: The Right Way
 
 ## Overview
 
-This is the GitHub Pages repository for the _PHP: The Right Way_ project.
+This is the GitHub Pages repository for the _Drupal: The Right Way_ project.
 
 * This website is a Jekyll project.
 * Each section and sub-section are a Markdown file in `_posts/`.
@@ -11,10 +11,11 @@ This is the GitHub Pages repository for the _PHP: The Right Way_ project.
 
 ## Spread the Word!
 
-_PHP: The Right Way_ has web banner images you can use on your website. Show your support, and let new PHP
+*TODO* 
+_Drupal: The Right Way_ has web banner images you can use on your website. Show your support, and let new Drupal
 developers know where to find good information!
 
-[See Banner Images](http://www.phptherightway.com/banners.html)
+[See Banner Images](http://www.drupaltherightway.com/banners.html)
 
 ## How to Contribute
 
@@ -31,31 +32,31 @@ developers know where to find good information!
 
 ## Where
 
-<http://www.phptherightway.com>
+<http://www.drupaltherightway.com>
 
-* [English](http://www.phptherightway.com)
-* [Catalan] (http://ca.phptherightway.com)
-* [Chinese](http://wulijun.github.com/php-the-right-way)
-* [Japanese] (http://ja.phptherightway.com)
-* [Korean] (http://wafe.github.io/php-the-right-way)
-* [Italian] (http://it.phptherightway.com)
-* [Polish](http://pl.phptherightway.com)
-* [Portuguese](http://br.phptherightway.com)
-* [Russian] (http://getjump.github.io/ru-php-the-right-way)
-* [Spanish] (http://es.phptherightway.com)
-* [Ukrainian](http://iflista.github.com/php-the-right-way)
-* [Bulgarian](http://bg.phptherightway.com)
-* [German] (http://rwetzlmayr.github.io/php-the-right-way)
-* [Turkish](http://hkulekci.github.io/php-the-right-way/)
+* [English](http://www.drupaltherightway.com)
+* [Catalan] 
+* [Chinese] 
+* [Japanese] 
+* [Korean] 
+* [Italian] 
+* [Polish] 
+* [Portuguese] 
+* [Russian] 
+* [Spanish] 
+* [Ukrainian] 
+* [Bulgarian] 
+* [German] 
+* [Turkish] 
 
 ### Translations
 
-If you are interested in translating _PHP: The Right Way_, fork this repo on GitHub and publish your localized fork to your own GitHub Pages account. We'll link to your translation from the primary document.
+If you are interested in translating _Drupal: The Right Way_, fork this repo on GitHub and publish your localized fork to your own GitHub Pages account. We'll link to your translation from the primary document.
 
 To avoid fragmentation and reader confusion, please choose one of these options:
 
-1. We link to your GitHub Pages fork with `[username].github.com/php-the-right-way`
-2. We link to your GitHub Pages fork with a subdomain (e.g. "ru.phptherightway.com")
+1. We link to your GitHub Pages fork with `[username].github.com/drupal-the-right-way`
+2. We link to your GitHub Pages fork with a subdomain (e.g. "ru.drupaltherightway.com")
 
 If you use a subdomain, enter the subdomain into the `CNAME` file, and ask us to setup DNS for you. If you do not use a subdomain, remove the `CNAME` file entirely else your fork will not build when pushed.
 
@@ -63,16 +64,20 @@ When your translation is ready, open an issue on the Issue Tracker to let us kno
 
 ## Why
 
-There's been a lot of discussion lately about how the PHP community lacks sufficient, credible information for programmers new to PHP. This repository aims to solve this problem.
+As Drupal continues to grow in popularity, more developers are being asked to take on Drupal projects and failing to follow the conventions and best practices that seasoned Drupal developers have developed. New developers are often overwhelmed and don't know where to start. This repository aims to solve this problem.
+
+## Why not Drupal Docs
+
+The Drupal.org docs have lots of great information in them, but it can be hard to figure out where you find the information you need and it is often the case that developers don't even know to look for that information. The idea here is to provide a 1-pager (albeit a bit lengthy one) that contains all the key points a new Drupal developer should be aware of, with lot of links to more details. 
+
 
 ## Who
 
-My name is [Josh Lockhart](http://twitter.com/codeguy). I'm the author of the [Slim Framework](http://www.slimframework.com/), and I work for [New Media Campaigns](http://www.newmediacampaigns.com/).
+My name is [Ryan Cross](http://twitter.com/ryancross). I'm the founder of the local [Sydney Drupal Community](http://groups.drupal.org/australia), and I own and work at [Cross(Functional)](http://www.crossfunctional.net).
 
-### Collaborators
+## Credits
 
-* [Kris Jordan](http://krisjordan.com/)
-* [Phil Sturgeon](http://philsturgeon.co.uk/)
+* [Josh Lockhart](http://twitter.com/codeguy) - Original author of _PHP: The Right Way_
 
 ## License
 
