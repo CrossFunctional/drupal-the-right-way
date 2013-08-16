@@ -11,7 +11,8 @@ This is the GitHub Pages repository for the _Drupal: The Right Way_ project.
 
 ## Spread the Word!
 
-*TODO* 
+**TODO**
+
 _Drupal: The Right Way_ has web banner images you can use on your website. Show your support, and let new Drupal
 developers know where to find good information!
 
