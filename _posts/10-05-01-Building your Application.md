@@ -39,12 +39,12 @@ Ruby on Rails applications, however people are **successfully deploying PHP syst
 Capistrano depends on a working knowledge of Ruby and Rake.
 
 Dave Gardner's blog post [PHP Deployment with Capistrano](http://www.davegardner.me.uk/blog/2012/02/13/php-deployment-with-capistrano/) 
-is a good starting point for PHP developers interested in Capistrano.
+is a good starting point for Drupal developers interested in Capistrano.
 
 [Chef](http://www.opscode.com/chef/) is more than a deployment framework, it is a very powerful Ruby based system 
 integration framework that doesn't just deploy your app but can build your whole server environment or virtual boxes.
 
-Chef resources for PHP developers:
+Chef resources for Drupal developers:
 
 * [Three part blog series about deploying a LAMP application with Chef, Vagrant, and EC2](http://www.jasongrimes.org/2012/06/managing-lamp-environments-with-chef-vagrant-and-ec2-1-of-3/)
 * [Chef Cookbook which installs and configures PHP 5.3 and the PEAR package management system](https://github.com/opscode-cookbooks/php)
